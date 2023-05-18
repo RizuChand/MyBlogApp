@@ -1,0 +1,41 @@
+.wrapper {
+    width: 500px;
+    height: 600px;
+    margin: 0 auto;
+    border: 3px solid #d1c999;
+    border-radius: 10px;
+}
+
+form {
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+   
+}
+
+h1{
+   text-align: center; 
+}
+
+input {
+    display: block;
+    width: 80%;
+    padding: 10px 12px;
+    margin-bottom: 10px;
+    border: 2px solid #ddd;
+    border-radius: 7px;
+    background-color: #fff;
+
+}
+
+button {
+    width: 80%;
+    padding: 9px 11px;
+    border: 1px solid #d1c999;
+    border-radius: 7px;
+    background-color: #d1d450;
+    cursor: pointer;
+}
