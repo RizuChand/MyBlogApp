@@ -1,0 +1,29 @@
+.post{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-bottom: 17px;
+  
+  }
+  .text h2{
+    margin: 0;
+    font-size: 2rem;
+  }
+  
+  .info{
+    display: flex;
+    margin: 6px 0;
+    font-size: 0.8rem;
+    color: #888;
+    gap: 5px;
+  }
+  .info a{
+    text-decoration: none;
+    color: #c78344;
+    font-weight: bold;
+  }
+  
+  .summary {
+    margin: 10px 0;
+    line-height: 1.4rem;
+  }

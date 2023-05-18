@@ -1,0 +1,26 @@
+header{
+    padding: 25px 70px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    border: 1px solid #d1c999;
+    /* border-radius: 30px; */
+   
+  
+  }
+  
+  header a{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    color: inherit;
+  }
+  
+  header a.logo{
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  header nav {
+    display: flex;
+    gap: 35px;
+  }
